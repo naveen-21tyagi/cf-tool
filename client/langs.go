@@ -69,6 +69,5 @@ var LangsExt = map[string]string{
 	"JavaScript":            "js",
 	"Node.js":               "js",
 	"Java":                  "java",
-	"Scala":	 	 ".sc",
 	"Scala":	 	 ".scala",
 }
