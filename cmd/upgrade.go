@@ -16,7 +16,7 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	"github.com/xalanq/cf-tool/util"
+	"cf-tool/util"
 )
 
 func less(a, b string) bool {
